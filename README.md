@@ -4,8 +4,20 @@
 - 💞️ I’m looking to collaborate on Data Science project
 - 📫 Reach me at wellia_lioeng@yahoo.com
 
+# Table of Contents
 
-Descriptive Analytics And Visualisation
+## Machine Learning
+Housing EDA
+Clustering (Unsupervised), PCA
+Weather dataset: Supervised, Linear regression, Logistic regression
+Kidney Disease: Support Vector Machine (SVM), Decision Tree, Random Forest, KNN
+FIFA socker: Clustering
+Job Postings: EDA and Text Processing
+
+## Descriptive Analytics And Visualisation
 Assignment 1: Hypothesis test
 Assignment 2: Modellling and Time-series forecast model
-Assignment 3: Tableau - see Tableau project
+Assignment 3: Tableau
+
+## Bayesian
+
