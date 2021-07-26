@@ -15,13 +15,13 @@
 - Job Postings: EDA and Text Processing
 - Predicting [housing price](https://github.com/wellia/house_price_kaggle)(Kaggle): Regression and Stacking 
 
-## Descriptive Analytics And Visualisation
+## [Descriptive Analytics And Visualisation](https://github.com/wellia/Descriptive_Analytic_Visualisation)
 - Assignment 1: Hypothesis test
 - Assignment 2: Modellling and Time-series forecast model
 - Assignment 3: Data analysis and Tableau dashboard [Rocking Robin Ice-cream](https://public.tableau.com/app/profile/wellia.lioeng/viz/RockingRobin_15908123875900/RockingRobinDashboard)
 - Other tableau projects: [Wellia tableau public](https://public.tableau.com/app/profile/wellia.lioeng)
 
-## Bayesian and R
+## [Bayesian and R](https://github.com/wellia/Bayesian)
 - Assignment 1: Exploratory Data Analysis, Plot, Independent test, Mutually exclusive test, Frequentist & Bayesian estimations, Inverse-gamma prior Exponential likelihood conjugate, Gaussians Bayesian Inferences, K-Means and Spectral clusterings, Bayesian modelling for Covid19
 - Assignment 2: Bayesian network, Conditionally independent/d-seperation test, Markov blanket, Inferences in bayesian network, Bayesian structure learning, modeling air pollution, climate and health data using Bayesian network.
 
