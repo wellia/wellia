@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Wellia
 - 👀 I’m interested in Data Analytic and Maching Learning. I have strong background in software development.
-- 🌱 I’m currently learning Deep Learning and Azure ML
 - 💞️ I’m looking to collaborate on Data Science project
 - 📫 Reach me at wellia_lioeng@yahoo.com
 
@@ -31,4 +30,4 @@
 Data Science project, Data profilling, Classification, Prediction and NLP
 
 ## [Deep Learning](https://github.com/wellia/DeepLearning)
-I am currently taking this unit
+DNN, CNN, RNN, NLP
