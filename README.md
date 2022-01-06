@@ -5,6 +5,21 @@
 
 # Here are some of my projects
 
+## [Building Defect Repository]() 
+NLP, classification, Deep learning, Tensorflow, Ktrain, scikit-learn, NLTK
+- Web scraping using Python libraries - Http Requests, BeautifulSoup and Selenium
+- Analysed building defect data using Python 
+- Visualisation using Tableau
+- Implemented data pipelines such as cleaned, vectorized, augmented data
+- Trained the model using deep learning NLP
+
+## [Energy Safe Victoria](https://github.com/wellia/capstone_ESV) 
+Machine learning, Python libraries, Data profilling, Classification, Prediction and NLP
+- Analysed and cleaned the data
+- Implemented data pipelines
+- Trained model with various machine learning techniques such as random forest, SVM, XGBoost and neural networks
+- Deployed the models to the web application
+
 ## [Machine Learning](https://github.com/wellia/Machine_Learning)
 - Housing EDA
 - Clustering (Unsupervised), PCA
@@ -25,9 +40,6 @@
 - Assignment 2: Bayesian network, Conditionally independent/d-seperation test, Markov blanket, Inferences in bayesian network, Bayesian structure learning, modeling air pollution, climate and health data using Bayesian network.
 
 ## [Predictive analytic using R](https://github.com/wellia/Data-ANZ)
-
-## [Energy Safe Victoria](https://github.com/wellia/capstone_ESV)
-Data Science project, Data profilling, Classification, Prediction and NLP
 
 ## [Deep Learning](https://github.com/wellia/DeepLearning)
 DNN, CNN, RNN, NLP
