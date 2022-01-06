@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Wellia
-- 👀 I am a data scientist intern at the [Deakin research project] (https://github.com/wellia/capstone_ESV). I am currently doing a Master of Data Science at Deakin and will be graduating this year. I have more than ten years of experience in software development as a full-stack programmer.
+- 👀 I am a data scientist intern at the Deakin research project. I am currently doing a Master of Data Science at Deakin and will be graduating this year. I have more than ten years of experience in software development as a full-stack programmer.
 - 💞️ I’m looking to collaborate on Data Science project
 - 📫 Reach me at wellia_lioeng@yahoo.com
 
