@@ -7,7 +7,7 @@
 
 ## [Building Defect Repository](https://github.com/wellia/buildingDefect) 
 NLP, classification, Deep learning, Tensorflow, Ktrain, scikit-learn, NLTK
-- Web scraping using Python libraries - Http Requests, BeautifulSoup and Selenium
+- [Web scraping](https://github.com/wellia/WebScrapping) using Python libraries - Http Requests, BeautifulSoup and Selenium
 - Analysed building defect data using Python 
 - Visualisation using Tableau
 - Implemented data pipelines such as cleaned, vectorized, augmented data
