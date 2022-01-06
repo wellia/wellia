@@ -11,13 +11,13 @@ NLP, classification, Deep learning, Tensorflow, Ktrain, scikit-learn, NLTK
 - Analysed building defect data using Python 
 - Visualisation using Tableau
 - Implemented data pipelines such as cleaned, vectorized, augmented data
-- Trained the model using deep learning NLP
+- Trained the model using deep learning Ktrain, NLP
 
 ## [Energy Safe Victoria](https://github.com/wellia/capstone_ESV) 
 Machine learning, Python libraries, Data profilling, Classification, Prediction and NLP
 - Analysed and cleaned the data
 - Implemented data pipelines
-- Trained model with various machine learning techniques such as random forest, SVM, XGBoost and neural networks
+- Trained model with various machine learning techniques such as random forest, SVM, XGBoost, Stacking and neural networks RNN
 - Deployed the models to the web application
 
 ## [Machine Learning](https://github.com/wellia/Machine_Learning)
