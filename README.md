@@ -1,9 +1,9 @@
 - 👋 Hi, I’m Wellia
-- 👀 I’m interested in Data Analytic and Maching Learning. I have strong background in software development.
+- 👀 I am a data scientist intern at the Deakin research project (https://github.com/wellia/capstone_ESV). I am currently doing a Master of Data Science at Deakin and will be graduating this year. I have more than ten years of experience in software development as a full-stack programmer.
 - 💞️ I’m looking to collaborate on Data Science project
 - 📫 Reach me at wellia_lioeng@yahoo.com
 
-# Table of Contents
+# Here are some of my projects
 
 ## [Machine Learning](https://github.com/wellia/Machine_Learning)
 - Housing EDA
