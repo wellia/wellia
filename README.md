@@ -6,14 +6,14 @@
 # Here are some of my projects
 
 ## [Building Defect Repository](https://github.com/wellia/buildingDefect) 
-NLP, classification, Deep learning, Tensorflow, Ktrain, scikit-learn, NLTK
+NLP, classification, Deep learning, Tensorflow, Ktrain, scikit-learn, NLTK, spacy, Tableau
 - [Web scraping](https://github.com/wellia/WebScrapping) using Python libraries - Http Requests, BeautifulSoup and Selenium
 - Analysed building defect data using Python 
-- Visualisation using Tableau
+- Visualisation using [Tableau](https://public.tableau.com/app/profile/wellia.lioeng/viz/BuildingDefects/story)
 - Implemented data pipelines such as cleaned, vectorized, augmented data
 - Trained the model using deep learning Ktrain, NLP
 
-## [Energy Safe Victoria](https://github.com/wellia/capstone_ESV) 
+## [Energy Safe Victoria](https://github.com/wellia/capstone_ESV)
 Machine learning, Python libraries, Data profilling, Classification, Prediction and NLP
 - Analysed and cleaned the data
 - Implemented data pipelines
