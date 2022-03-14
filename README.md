@@ -12,6 +12,8 @@ NLP, classification, Deep learning, Tensorflow, Ktrain, scikit-learn, NLTK, spac
 - Visualisation using [Tableau](https://public.tableau.com/app/profile/wellia.lioeng/viz/BuildingDefects/story)
 - Implemented data pipelines such as cleaned, vectorized, augmented data
 - Trained the model using deep learning Ktrain, NLP
+- Web-scraping with Selenium
+- Data mining with NLTK, Spacy
 
 ## [Energy Safe Victoria](https://github.com/wellia/capstone_ESV)
 Machine learning, Python libraries, Data profilling, Classification, Prediction and NLP
