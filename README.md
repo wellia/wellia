@@ -20,6 +20,12 @@ Machine learning, Python libraries, Data profilling, Classification, Prediction 
 - Trained model with various machine learning techniques such as random forest, SVM, XGBoost, Stacking and neural networks RNN
 - Deployed the models to the web application
 
+##  [ARM with Apriori and Timeseries analysis](https://github.com/wellia/superstore)
+- Analysed the superstore data
+- Performed Association Rule Mining (ARM) with Apriori algorithm
+- Performed Time-series analysis with ARIMA
+- Visualisation with Matplotlib, Seaborn and Plotly
+
 ## [Machine Learning](https://github.com/wellia/Machine_Learning)
 - Housing EDA
 - Clustering (Unsupervised), PCA
