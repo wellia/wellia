@@ -5,7 +5,11 @@
 
 # Here are some of my projects
 
-## [Machine Learning, Deep Learning projects](https://github.com/wellia/machineLearnings) 
+[Machine Learning, Deep Learning projects](#machine-learnings)
+[Statistics, R](#statistics)
+[PowerBI](#powerbi)
+
+## Machine Learnings
 
 ### [Building Defect Repository](https://github.com/wellia/buildingDefect) 
 NLP, classification, Deep learning, Tensorflow, Ktrain, scikit-learn, NLTK, spacy, Tableau
@@ -24,7 +28,7 @@ Machine learning, Python libraries, Data profilling, Classification, Prediction 
 - Trained model with various machine learning techniques such as random forest, SVM, XGBoost, Stacking and neural networks RNN
 - Deployed the models to the web application
 
-## [Machine Learning](https://github.com/wellia/Machine_Learning)
+### [Machine Learning](https://github.com/wellia/Machine_Learning)
 - Housing EDA
 - Clustering (Unsupervised), PCA
 - Weather dataset: Supervised, Linear regression, Logistic regression
@@ -33,10 +37,10 @@ Machine learning, Python libraries, Data profilling, Classification, Prediction 
 - Job Postings: EDA and Text Processing
 - Predicting [housing price](https://github.com/wellia/house_price_kaggle)(Kaggle): Regression and Stacking 
 
-## [Deep Learning](https://github.com/wellia/DeepLearning)
+### [Deep Learning](https://github.com/wellia/DeepLearning)
 DNN, CNN, RNN, NLP
 
-# Statistics, R
+## Statistics
 
 ##  [ARM with Apriori and Timeseries analysis](https://github.com/wellia/superstore)
 - Analysed the superstore data
