@@ -1,15 +1,15 @@
 - 👋 Hi, I’m Wellia
 - 👀 I am a data scientist at the Deakin research project. I just finished a Master of Data Science from Deakin University. I have more than ten years of experience in software development as a full-stack programmer.
-- 💞️ I’m looking to collaborate on Data Science project
+- 💞️ I’m looking to collaborate on a Data Science project
 - 📫 Reach me at wellia_lioeng@yahoo.com
 
 # Here are some of my projects
 
-[Machine Learning, Deep Learning projects](#machine-learnings)
-[Statistics, R](#statistics)
-[PowerBI](#powerbi)
+- [Machine Learning, Deep Learning projects](#machine-learning)
+- [Statistics, R](#statistics)
+- [PowerBI](#powerbi)
 
-## Machine Learnings
+## Machine Learning
 
 ### [Building Defect Repository](https://github.com/wellia/buildingDefect) 
 NLP, classification, Deep learning, Tensorflow, Ktrain, scikit-learn, NLTK, spacy, Tableau
@@ -22,7 +22,7 @@ NLP, classification, Deep learning, Tensorflow, Ktrain, scikit-learn, NLTK, spac
 - Data mining with NLTK, Spacy
 
 ### [Energy Safe Victoria](https://github.com/wellia/capstone_ESV)
-Machine learning, Python libraries, Data profilling, Classification, Prediction and NLP
+Machine learning, Python libraries, Data profiling, Classification, Prediction and NLP
 - Analysed and cleaned the data
 - Implemented data pipelines
 - Trained model with various machine learning techniques such as random forest, SVM, XGBoost, Stacking and neural networks RNN
@@ -42,27 +42,27 @@ DNN, CNN, RNN, NLP
 
 ## Statistics
 
-##  [ARM with Apriori and Timeseries analysis](https://github.com/wellia/superstore)
+###  [ARM with Apriori and Timeseries analysis](https://github.com/wellia/superstore)
 - Analysed the superstore data
 - Performed Association Rule Mining (ARM) with Apriori algorithm
 - Performed Time-series analysis with ARIMA
 - Visualisation with Matplotlib, Seaborn and Plotly
-- 
-## [Descriptive Analytics And Visualisation](https://github.com/wellia/Descriptive_Analytic_Visualisation)
+  
+### [Descriptive Analytics And Visualisation](https://github.com/wellia/Descriptive_Analytic_Visualisation)
 - Assignment 1: Hypothesis test
-- Assignment 2: Modellling and Time-series forecast model
+- Assignment 2: Modelling and Time-series Forecast model
 - Assignment 3: Data analysis and Tableau dashboard [Rocking Robin Ice-cream](https://public.tableau.com/app/profile/wellia.lioeng/viz/RockingRobin_15908123875900/RockingRobinDashboard)
 - Other tableau projects: [Wellia tableau public](https://public.tableau.com/app/profile/wellia.lioeng)
 
-## [Bayesian and R](https://github.com/wellia/Bayesian)
+### [Bayesian and R](https://github.com/wellia/Bayesian)
 - Assignment 1: Exploratory Data Analysis, Plot, Independent test, Mutually exclusive test, Frequentist & Bayesian estimations, Inverse-gamma prior Exponential likelihood conjugate, Gaussians Bayesian Inferences, K-Means and Spectral clusterings, Bayesian modelling for Covid19
-- Assignment 2: Bayesian network, Conditionally independent/d-seperation test, Markov blanket, Inferences in bayesian network, Bayesian structure learning, modeling air pollution, climate and health data using Bayesian network.
+- Assignment 2: Bayesian network, Conditionally independent/d-separation test, Markov blanket, Inferences in Bayesian network, Bayesian structure learning, modelling air pollution, climate and health data using Bayesian network.
 
-## [Predictive analytic using R](https://github.com/wellia/Data-ANZ)
+### [Predictive analytic using R](https://github.com/wellia/Data-ANZ)
 
 # PowerBI
 
-## [Customer complaints](https://github.com/wellia/CustomerComplaints-PowerBI)
-
+## [Customer complaints](https://github.com/wellia/suptech-hack-PowerBI)
+Fintech application, Beyond Chatbots Hackathon organised by SupTech
 
 
