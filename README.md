@@ -5,7 +5,9 @@
 
 # Here are some of my projects
 
-## [Building Defect Repository](https://github.com/wellia/buildingDefect) 
+## Machine Learning, Deep Learning projects
+
+### [Building Defect Repository](https://github.com/wellia/buildingDefect) 
 NLP, classification, Deep learning, Tensorflow, Ktrain, scikit-learn, NLTK, spacy, Tableau
 - [Web scraping](https://github.com/wellia/WebScrapping) using Python libraries - Http Requests, BeautifulSoup and Selenium
 - Analysed building defect data using Python 
@@ -15,18 +17,12 @@ NLP, classification, Deep learning, Tensorflow, Ktrain, scikit-learn, NLTK, spac
 - Web-scraping with Selenium
 - Data mining with NLTK, Spacy
 
-## [Energy Safe Victoria](https://github.com/wellia/capstone_ESV)
+### [Energy Safe Victoria](https://github.com/wellia/capstone_ESV)
 Machine learning, Python libraries, Data profilling, Classification, Prediction and NLP
 - Analysed and cleaned the data
 - Implemented data pipelines
 - Trained model with various machine learning techniques such as random forest, SVM, XGBoost, Stacking and neural networks RNN
 - Deployed the models to the web application
-
-##  [ARM with Apriori and Timeseries analysis](https://github.com/wellia/superstore)
-- Analysed the superstore data
-- Performed Association Rule Mining (ARM) with Apriori algorithm
-- Performed Time-series analysis with ARIMA
-- Visualisation with Matplotlib, Seaborn and Plotly
 
 ## [Machine Learning](https://github.com/wellia/Machine_Learning)
 - Housing EDA
@@ -37,6 +33,17 @@ Machine learning, Python libraries, Data profilling, Classification, Prediction 
 - Job Postings: EDA and Text Processing
 - Predicting [housing price](https://github.com/wellia/house_price_kaggle)(Kaggle): Regression and Stacking 
 
+## [Deep Learning](https://github.com/wellia/DeepLearning)
+DNN, CNN, RNN, NLP
+
+# Statistics, R
+
+##  [ARM with Apriori and Timeseries analysis](https://github.com/wellia/superstore)
+- Analysed the superstore data
+- Performed Association Rule Mining (ARM) with Apriori algorithm
+- Performed Time-series analysis with ARIMA
+- Visualisation with Matplotlib, Seaborn and Plotly
+- 
 ## [Descriptive Analytics And Visualisation](https://github.com/wellia/Descriptive_Analytic_Visualisation)
 - Assignment 1: Hypothesis test
 - Assignment 2: Modellling and Time-series forecast model
@@ -49,5 +56,9 @@ Machine learning, Python libraries, Data profilling, Classification, Prediction 
 
 ## [Predictive analytic using R](https://github.com/wellia/Data-ANZ)
 
-## [Deep Learning](https://github.com/wellia/DeepLearning)
-DNN, CNN, RNN, NLP
+# PowerBI
+
+## [Customer complaints](https://github.com/wellia/CustomerComplaints-PowerBI)
+
+
+
