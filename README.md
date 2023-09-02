@@ -5,7 +5,7 @@
 
 # Here are some of my projects
 
-## Machine Learning, Deep Learning projects
+## [Machine Learning, Deep Learning projects](https://github.com/wellia/machineLearnings) 
 
 ### [Building Defect Repository](https://github.com/wellia/buildingDefect) 
 NLP, classification, Deep learning, Tensorflow, Ktrain, scikit-learn, NLTK, spacy, Tableau
