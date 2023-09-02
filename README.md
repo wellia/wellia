@@ -5,7 +5,7 @@
 
 # Here are some of my projects
 
-- [Machine Learning, Deep Learning projects](#machine-learning)
+- [Machine Learning, Deep Learning](#machine-learning)
 - [Statistics, R](#statistics)
 - [PowerBI](#powerbi)
 
