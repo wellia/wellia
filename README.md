@@ -11,6 +11,15 @@
 
 ## Machine Learning
 
+### [Refugee Events (data from GDELT) ](https://github.com/wellia/gdeltRefugee) 
+Discovering hidden topics in online articles related to refugees
+Skills: Python, NLP machine learning, PowerBI
+- Data Cleaning with Python pandas
+- EDA
+- Extract news content, web-scraping technique with BeautifulSoup
+- Topic Modelling with Gensim LDA
+- Visualisation with PowerBI
+  
 ### [Building Defect Repository](https://github.com/wellia/buildingDefect) 
 NLP, classification, Deep learning, Tensorflow, Ktrain, scikit-learn, NLTK, spacy, Tableau
 - [Web scraping](https://github.com/wellia/WebScrapping) using Python libraries - Http Requests, BeautifulSoup and Selenium
@@ -61,6 +70,9 @@ DNN, CNN, RNN, NLP
 ### [Predictive analytic using R](https://github.com/wellia/Data-ANZ)
 
 # PowerBI
+
+## [Refugee Events (data from GDELT)](https://github.com/wellia/gdeltRefugee) 
+Discovering hidden topics in online articles related to refugees
 
 ## [Customer complaints](https://github.com/wellia/suptech-hack-PowerBI)
 Fintech application, Beyond Chatbots Hackathon organised by SupTech
