@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Wellia
-- 👀 I am a data scientist at the Deakin research project. I just finished a Master of Data Science from Deakin University. I have more than ten years of experience in software development as a full-stack programmer.
+- 👀 I am a data scientist/data analyst. My background is in data science and software development.
 - 💞️ I’m looking to collaborate on a Data Science project
-- 📫 Reach me at wellia_lioeng@yahoo.com
+- 📫 Reach me at wellia_lioeng@yahoo.com, https://www.linkedin.com/in/wellia-lioeng/
 
 # Here are some of my projects
 
