@@ -11,7 +11,7 @@
 
 ## Machine Learning
 
-### [Refugee Events (data from GDELT) ](https://github.com/wellia/gdeltRefugee) 
+### [Refugee Events](https://github.com/wellia/gdeltRefugee) 
 Discovering hidden topics in online articles related to refugees
 Skills: Python, NLP machine learning, PowerBI
 - Data Cleaning with Python pandas
@@ -71,7 +71,7 @@ DNN, CNN, RNN, NLP
 
 # PowerBI
 
-## [Refugee Events (data from GDELT)](https://github.com/wellia/gdeltRefugee) 
+## [Refugee Events](https://github.com/wellia/gdeltRefugee) 
 Discovering hidden topics in online articles related to refugees
 
 ## [Customer complaints](https://github.com/wellia/suptech-hack-PowerBI)
