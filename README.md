@@ -8,6 +8,7 @@
 - [Machine Learning, Deep Learning](#machine-learning)
 - [Statistics, R](#statistics)
 - [PowerBI](#powerbi)
+- [Tableau] (https://public.tableau.com/app/profile/wellia.lioeng/viz/BuildingDefects/story)
 
 ## Machine Learning
 
