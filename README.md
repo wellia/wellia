@@ -38,7 +38,7 @@ Machine learning, Python libraries, Data profiling, Classification, Prediction a
 - Trained model with various machine learning techniques such as random forest, SVM, XGBoost, Stacking and neural networks RNN
 - Deployed the models to the web application
 
-### [Machine Learning](https://github.com/wellia/Machine_Learning)
+### [University Projects](https://github.com/wellia/Machine_Learning)
 - Housing EDA
 - Clustering (Unsupervised), PCA
 - Weather dataset: Supervised, Linear regression, Logistic regression
